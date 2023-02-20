@@ -9,7 +9,7 @@
                     "172.20.103.138",
                     "172.20.103.137"
                 ],
-                "deviceType": "cisco_ios",
+                "deviceType": "cisco_nxos",
                 "username": "admin",
                 "port": 22,
                 "commands":
