@@ -1,0 +1,43 @@
+{
+    "leaf": {
+        "commonDevicesCommandSets":[
+
+        ],
+        "uniqueDevicesCommands": [
+
+        ]
+    },
+    "spine": {
+        "commonDevicesCommandSets":[
+
+        ],
+        "uniqueDevicesCommands": [
+        ]
+    },
+    "dci": {
+        "commonDevicesCommandSets":[],
+        "uniqueDevicesCommands": []
+    },
+    "internet": {
+        "commonDevicesCommandSets":[
+
+        ],
+        "uniqueDevicesCommands": [
+        ]
+    },
+    "mpls": {
+        "commonDevicesCommandSets":[
+
+        ],
+        "uniqueDevicesCommands": [
+        ]
+    },
+    "apic": {
+        "commonDevicesCommandSets":[
+
+        ],
+        "uniqueDevicesCommands": [
+
+        ]
+    }
+}

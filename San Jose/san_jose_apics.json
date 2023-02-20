@@ -1,0 +1,81 @@
+{
+    "leaf":
+    {
+        "commonDevicesCommandSets":
+        [
+            {
+                "devices":
+                [
+                    "172.20.103.138",
+                    "172.20.103.137",
+                ],
+                "deviceType": "cisco_ios",
+                "username": "admin",
+                "port": 22,
+                "commands":
+                [
+                    [
+                        "show interfaces",
+                        "show version"
+                    ],
+                    [
+                        "show location"
+                    ]
+                ]
+            }
+        ],
+        "uniqueDevicesCommands":
+        [
+            {
+                "device": "172.20.103.121",
+                "deviceType": "cisco_xr",
+                "username": "admin",
+                "port": 22,
+                "commands":
+                [
+                    [
+                        "show interfaces"
+                    ],
+                    [
+                        "show version"
+                    ]
+                ]
+            }
+        ]
+    },
+    "spine":
+    {
+        "commonDevicesCommandSets":
+        [],
+        "uniqueDevicesCommands":
+        []
+    },
+    "dci":
+    {
+        "commonDevicesCommandSets":
+        [],
+        "uniqueDevicesCommands":
+        []
+    },
+    "internet":
+    {
+        "commonDevicesCommandSets":
+        [],
+        "uniqueDevicesCommands":
+        []
+    },
+    "mpls":
+    {
+        "commonDevicesCommandSets":
+        [],
+        "uniqueDevicesCommands":
+        []
+    },
+    "apic":
+    {
+        "commonDevicesCommandSets":
+        [],
+        "uniqueDevicesCommands":
+        []
+    }
+}
