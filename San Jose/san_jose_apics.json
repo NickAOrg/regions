@@ -34,10 +34,11 @@
                 "commands":
                 [
                     [
-                        "show interfaces"
+                        "show interfaces",
+                        "show version"
                     ],
                     [
-                        "show version"
+                        "show location"
                     ]
                 ]
             }
